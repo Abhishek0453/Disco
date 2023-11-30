@@ -8,5 +8,5 @@ This project involves exploring different theories to optimise the course alloca
 The following constraints are among the main ones: <br>
   -> Profs are divided in 3 category each from which has to take 0.5/1/1.5 course per semester depending on which category he/she belongs to.<br>
   -> A course can be allocated to a professor IFF it is present in the prof's preference list.<br>
-  -> All the CDCs have to be alloted no matter what.
+  -> All the CDCs have to be alloted no matter what.<br>
   -> A has to have 1 allotment to it.
