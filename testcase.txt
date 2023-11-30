@@ -1,0 +1,6 @@
+prof1:0.5,prof2:1.5,prof3:1.5,prof4:1
+compulsory:course1|course2|course3,elective:course4|course5
+prof1,course2,course1,course4
+prof2,course1
+prof3,course4,course2,course5
+prof4,course3,course2,course4
